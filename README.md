@@ -1,6 +1,6 @@
 ### REVIVED NEWER SMBU
 
-I decided to take some time and add to the 500,000,000 projects i have to make this so don't expect this to be done in a day but feel free to help :)
+I decided to take some time and add to the 500,000,000 projects i have to make this so don't expect this to be done in a day but feel free to sumbit a pull request/issue and help :)
 
 
 
@@ -27,3 +27,14 @@ Plan:
 - [ ] Realse
 
  Plan To Realse By: May 2027
+
+---
+
+Note: I Ask if you post a video on this to please not put my name for personal reasons
+
+---
+
+Other Forms/Questions:
+[Physical Disk For Wiiu](https://forms.gle/FCz4o8UpKPHC74Aq6)
+[Switch Port](https://forms.gle/fMCWwSKuiGr99D9M7)
+[Questions, Comments, Requests](https://forms.gle/s1W3rzGgCxLcXDJ59)
